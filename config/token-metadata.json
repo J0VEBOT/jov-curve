@@ -1,0 +1,44 @@
+{
+  "name": "JOV",
+  "symbol": "JOV",
+  "description": "JOV \u2014 Personal AI Assistant powered by Grok. Run locally, connect everywhere. The bolt protocol. \u26a1",
+  "image": "https://arweave.net/jov-logo-v1-bolt-claw-g",
+  "external_url": "https://j0vebot.com",
+  "properties": {
+    "category": "utility",
+    "creators": [
+      {
+        "address": "JOVDePLoYeR111111111111111111111111111111",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/jov-logo-v1-bolt-claw-g",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Curve",
+      "value": "Meteora DAMM v2"
+    },
+    {
+      "trait_type": "Authority",
+      "value": "Revoked (Immutable)"
+    },
+    {
+      "trait_type": "Deployed By",
+      "value": "jovebot agent"
+    }
+  ]
+}

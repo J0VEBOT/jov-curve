@@ -1,0 +1,28 @@
+{
+  "name": "jov-curve",
+  "version": "1.0.0",
+  "description": "$JOV bonding curve deployment via JOV agent — Meteora DAMM v2",
+  "type": "module",
+  "scripts": {
+    "verify": "tsx scripts/verify-curve.ts",
+    "monitor": "tsx scripts/monitor-pool.ts",
+    "deploy": "tsx scripts/deploy-jov-token.ts"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0",
+    "@solana/spl-token": "^0.4.0",
+    "bn.js": "^5.2.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0",
+    "@types/bn.js": "^5.1.5"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/J0VEBOT/jov-curve"
+  },
+  "homepage": "https://j0vebot.com"
+}
