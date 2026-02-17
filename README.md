@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <code>4qHkV14MAqHqM5eEX9YzeTNhdGnzDeWQYj8kXpQUjov0</code>
+  <code>8fwKL3KVfkksRGQt3X8xSaaikFraGszQYrNHHq4qjupx</code>
 </p>
 
 ---
@@ -29,7 +29,7 @@ $ jovebot agent --message "Deploy $JOV token with 1B supply on Meteora bonding c
 | Parameter | Value |
 |-----------|-------|
 | **Token** | JOV ($JOV) |
-| **Mint** | `4qHkV14MAqHqM5eEX9YzeTNhdGnzDeWQYj8kXpQUjov0` |
+| **Mint** | `8fwKL3KVfkksRGQt3X8xSaaikFraGszQYrNHHq4qjupx` |
 | **Supply** | 1,000,000,000 (1B) |
 | **Decimals** | 9 |
 | **Curve** | Meteora DAMM v2 (Constant Product) |
@@ -168,8 +168,8 @@ See the full agent conversation: [`logs/agent-session-transcript.md`](logs/agent
 
 | Resource | URL |
 |----------|-----|
-| **Explorer** | [solscan.io/token/4qHkV14M...jov](https://solscan.io/token/4qHkV14MAqHqM5eEX9YzeTNhdGnzDeWQYj8kXpQUjov0) |
-| **Jupiter** | [jup.ag/swap/SOL-JOV](https://jup.ag/swap/SOL-4qHkV14MAqHqM5eEX9YzeTNhdGnzDeWQYj8kXpQUjov0) |
+| **Explorer** | [solscan.io/token/4qHkV14M...jov](https://solscan.io/token/8fwKL3KVfkksRGQt3X8xSaaikFraGszQYrNHHq4qjupx) |
+| **Jupiter** | [jup.ag/swap/SOL-JOV](https://jup.ag/swap/SOL-8fwKL3KVfkksRGQt3X8xSaaikFraGszQYrNHHq4qjupx) |
 | **Website** | [j0vebot.com](https://j0vebot.com) |
 | **JOV CLI** | [github.com/J0VEBOT/jov-cli](https://github.com/J0VEBOT/jov-cli) |
 | **JovHub** | [github.com/J0VEBOT/jov-hub](https://github.com/J0VEBOT/jov-hub) |
